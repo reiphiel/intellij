@@ -1,0 +1,39 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <recentFileMasks>
+      <mask>*.jav</mask>
+      <mask>*.java.</mask>
+      <mask>*.java</mask>
+      <mask>*.java,</mask>
+      <mask>*.java,*</mask>
+      <mask>*.java,*.r</mask>
+      <mask>*.java,*.</mask>
+      <mask>*.java,*.p</mask>
+      <mask>*.java,*.proe</mask>
+      <mask>*.java,*.pro</mask>
+      <mask>*.java,*.prop</mask>
+      <mask>*.java,*.prope</mask>
+      <mask>*.java,*.proper</mask>
+      <mask>*.java,*.properti</mask>
+      <mask>*.java,*.propertie</mask>
+      <mask>*.java,*.properties</mask>
+      <mask>**.java,*.properties</mask>
+      <mask>*.*.java,*.properties</mask>
+      <mask>*.g*.java,*.properties</mask>
+      <mask>*.gr*.java,*.properties</mask>
+      <mask>*.gra*.java,*.properties</mask>
+      <mask>*.grad*.java,*.properties</mask>
+      <mask>*.gradl*.java,*.properties</mask>
+      <mask>*.gradle.*.java,*.properties</mask>
+      <mask>*.gradle*.java,*.properties</mask>
+      <mask>*.gradle,*.java,*.properties</mask>
+      <mask>*.gradle,*.java,*.properties,</mask>
+      <mask>*.gradle,*.java,*.properties,*</mask>
+      <mask>*.gradle,*.java,*.properties,*x</mask>
+      <mask>*.gradle,*.java,*.properties,*xml</mask>
+    </recentFileMasks>
+  </component>
+</application>
