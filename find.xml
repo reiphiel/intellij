@@ -4,12 +4,13 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
+    <option name="regularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Service.java" />
     <recentFileMasks>
-      <mask>*.java,*.proper</mask>
-      <mask>*.java,*.properti</mask>
       <mask>*.java,*.propertie</mask>
       <mask>*.java,*.properties</mask>
       <mask>**.java,*.properties</mask>
@@ -29,7 +30,6 @@
       <mask>*</mask>
       <mask>*.ja</mask>
       <mask>*.jav</mask>
-      <mask>*.java</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.g</mask>
@@ -38,6 +38,9 @@
       <mask>*.grad</mask>
       <mask>*.gradl</mask>
       <mask>*.gradle</mask>
+      <mask>*.java</mask>
+      <mask>*Service*.java</mask>
+      <mask>*Service.java</mask>
     </recentFileMasks>
   </component>
 </application>
