@@ -14,7 +14,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>27</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare Files">
@@ -86,7 +86,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'ecp3-bo'</Description>
-          <Count>102</Count>
+          <Count>108</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ecp3-rest-api'">
@@ -118,7 +118,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>31</Count>
+          <Count>32</Count>
         </Item>
       </Statistic>
       <Statistic Action="Generate...">
@@ -134,7 +134,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>121</Count>
+          <Count>127</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -150,7 +150,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Windows">
@@ -182,7 +182,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'MemberLevelPolicyServiceTest.retrieve_me...'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'MemberShipAddressServiceImplTest.remove_...'">
@@ -289,6 +289,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'MemberLevelPolicyServiceTest.retrieve_member_level_std_cate_policy'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'MemberLevelPolicyServiceTest.retrieve_member_level_std_cate_policy'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'ecp3-bo'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -334,7 +342,7 @@
           <IdeaActionID>javaee.UpdateRunningApplication</IdeaActionID>
           <ShortCut>'⌘F10'</ShortCut>
           <Description>Update 'ecp3-bo' application</Description>
-          <Count>32</Count>
+          <Count>33</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
@@ -342,7 +350,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>59</Count>
+          <Count>61</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
