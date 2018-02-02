@@ -8,8 +8,6 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.java,*.proper</mask>
-      <mask>*.java,*.properti</mask>
       <mask>*.java,*.propertie</mask>
       <mask>*.java,*.properties</mask>
       <mask>**.java,*.properties</mask>
@@ -29,7 +27,6 @@
       <mask>*</mask>
       <mask>*.ja</mask>
       <mask>*.jav</mask>
-      <mask>*.java</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.g</mask>
@@ -38,6 +35,9 @@
       <mask>*.grad</mask>
       <mask>*.gradl</mask>
       <mask>*.gradle</mask>
+      <mask>*.java</mask>
+      <mask>*Service*.java</mask>
+      <mask>*Service.java</mask>
     </recentFileMasks>
   </component>
 </application>
