@@ -166,7 +166,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>388</Count>
+          <Count>389</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -270,7 +270,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'MemberReasonServiceImplTest.retrieve_mem...'</Description>
-          <Count>15</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'MemberShipAddressServiceImplTest.remove_...'">
