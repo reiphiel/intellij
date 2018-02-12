@@ -214,7 +214,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>452</Count>
+          <Count>460</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -345,6 +345,22 @@
           <Count>20</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'MemberShipAddressServiceImplTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'MemberShipAddressServiceImplTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'MemberShipAddressServiceImplTest.registe...'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'MemberShipAddressServiceImplTest.registe...'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'MemberShipAddressServiceImplTest.remove_...'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -377,12 +393,28 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'register_address_n...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'register_address_n...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'register_and_retri...()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'register_and_retri...()'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'register_ship_addr...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'register_ship_addr...()'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'retrieve_default_m...()'">
