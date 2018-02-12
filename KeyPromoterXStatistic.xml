@@ -17,6 +17,14 @@
           <Count>20</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Column Selection Mode">
+        <Item>
+          <IdeaActionID>EditorToggleColumnMode</IdeaActionID>
+          <ShortCut>'⇧⌘8' or '⇧⌘⌨ *'</ShortCut>
+          <Description>Column Selection Mode</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Commit Message History">
         <Item>
           <IdeaActionID>Vcs.ShowMessageHistory</IdeaActionID>
@@ -111,6 +119,14 @@
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'MemberReasonServiceImplTest.retrieve_mem...'</Description>
           <Count>19</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'MemberShipAddressServiceImplTest'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'MemberShipAddressServiceImplTest'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'SourceCodeParseUtilsTest.retrieve_parame...'">
@@ -214,7 +230,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>460</Count>
+          <Count>462</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
