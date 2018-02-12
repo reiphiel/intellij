@@ -126,7 +126,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'MemberShipAddressServiceImplTest'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'SourceCodeParseUtilsTest.retrieve_parame...'">
@@ -198,7 +198,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>79</Count>
+          <Count>81</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -230,7 +230,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>462</Count>
+          <Count>472</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -369,6 +369,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'MemberShipAddressServiceImplTest.change_...'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'MemberShipAddressServiceImplTest.change_...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'MemberShipAddressServiceImplTest.registe...'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -401,11 +409,27 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'change_rep_ship_ad...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'change_rep_ship_ad...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'exists_member_reas...()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'exists_member_reas...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'has_rep_ship_address()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'has_rep_ship_address()'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
