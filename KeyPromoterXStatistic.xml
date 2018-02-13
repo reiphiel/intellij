@@ -158,7 +158,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'ecp3-bo'</Description>
-          <Count>214</Count>
+          <Count>217</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ecp3-rest-api'">
@@ -206,7 +206,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>87</Count>
+          <Count>94</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -238,7 +238,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>496</Count>
+          <Count>508</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -278,7 +278,7 @@
           <IdeaActionID>FindBugs.PreviewSelectBugInstance</IdeaActionID>
           <ShortCut>'⌥Q' or '⌥Button1 Click'</ShortCut>
           <Description>Preview the current selected bug.</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
