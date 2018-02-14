@@ -262,7 +262,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>30</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Console...">
@@ -433,6 +433,14 @@
           <Count>20</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'MemberServiceImplTest.register_and_retri...'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'MemberServiceImplTest.register_and_retri...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'MemberShipAddressServiceImplTest'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -518,7 +526,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'register_and_retri...()'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'register_ship_addr...()'">
