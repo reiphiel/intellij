@@ -14,7 +14,7 @@
           <IdeaActionID>ChangesView.AddUnversioned</IdeaActionID>
           <ShortCut>'⌥⌘A'</ShortCut>
           <Description>Add to VCS</Description>
-          <Count>22</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Column Selection Mode">
@@ -262,7 +262,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>571</Count>
+          <Count>572</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -287,6 +287,14 @@
           <ShortCut>'F4'</ShortCut>
           <Description>Jump to Source</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Messages">
+        <Item>
+          <IdeaActionID>ActivateMessagesToolWindow</IdeaActionID>
+          <ShortCut>'⌘0'</ShortCut>
+          <Description>Messages</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Open Module Settings">
@@ -318,7 +326,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>29</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rebuild Module 'ecp-sales_test'">
@@ -638,7 +646,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>128</Count>
+          <Count>142</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
@@ -782,7 +790,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>217</Count>
+          <Count>219</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
