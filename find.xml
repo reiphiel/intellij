@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.java,*.properties</mask>
       <mask>**.java,*.properties</mask>
@@ -33,9 +34,9 @@
       <mask>*.gradl</mask>
       <mask>*Service*.java</mask>
       <mask>*Service.java</mask>
-      <mask>*.java</mask>
       <mask>*.gradle</mask>
       <mask>build.gradle</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
