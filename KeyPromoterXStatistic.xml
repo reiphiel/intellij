@@ -14,7 +14,7 @@
           <IdeaActionID>ChangesView.AddUnversioned</IdeaActionID>
           <ShortCut>'⌥⌘A'</ShortCut>
           <Description>Add to VCS</Description>
-          <Count>26</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Column Selection Mode">
@@ -294,7 +294,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>756</Count>
+          <Count>766</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -422,7 +422,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>44</Count>
+          <Count>46</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'BlacklistServiceImplTest'">
@@ -455,6 +455,14 @@
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'MemberBenefitServiceImplTest.save_online...'</Description>
           <Count>9</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'MemberBenefitServiceImplTest.save_point'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'MemberBenefitServiceImplTest.save_point'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'MemberLevelPolicyServiceTest.retrieve_ef...'">
@@ -543,6 +551,14 @@
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'MembershipServiceImplTest.retrieve_defau...'</Description>
           <Count>16</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ScrollableTest.scrollable'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'ScrollableTest.scrollable'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'SourceCodeParseUtilsTest.retrieve_parame...'">
@@ -705,6 +721,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'scrollable()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'scrollable()'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'set_member_blackli...()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -726,7 +750,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>155</Count>
+          <Count>156</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
@@ -782,6 +806,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'MemberLevelPolicyServiceTest.retrieve_member_level_std_cate_policy'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ScrollableTest.scrollable'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ScrollableTest.scrollable'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -878,7 +910,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>252</Count>
+          <Count>254</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
