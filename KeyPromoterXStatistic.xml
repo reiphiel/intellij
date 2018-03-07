@@ -14,7 +14,7 @@
           <IdeaActionID>ChangesView.AddUnversioned</IdeaActionID>
           <ShortCut>'⌥⌘A'</ShortCut>
           <Description>Add to VCS</Description>
-          <Count>39</Count>
+          <Count>40</Count>
         </Item>
       </Statistic>
       <Statistic Action="Column Selection Mode">
@@ -214,7 +214,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'ecp3-bo'</Description>
-          <Count>334</Count>
+          <Count>337</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ecp3-rest-api'">
@@ -334,7 +334,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Execute">
@@ -494,7 +494,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'⇧F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>11</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Replace in Path...">
@@ -1214,7 +1214,7 @@
           <IdeaActionID>ShelveChanges.UnshelveWithDialog</IdeaActionID>
           <ShortCut>'⇧⌘U'</ShortCut>
           <Description>Unshelve...</Description>
-          <Count>21</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update 'Bluework Entitymodeler' application">
@@ -1246,7 +1246,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>333</Count>
+          <Count>336</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
