@@ -1,6 +1,14 @@
 <application>
   <component name="KeyPromoterXStatistic">
     <option name="statistics">
+      <Statistic Action="Add">
+        <Item>
+          <IdeaActionID>Git.Add</IdeaActionID>
+          <ShortCut>'⌥⌘A'</ShortCut>
+          <Description>Add</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Add New Row">
         <Item>
           <IdeaActionID>Console.TableResult.AddRow</IdeaActionID>
@@ -38,7 +46,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>170</Count>
+          <Count>172</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare">
@@ -94,7 +102,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>123</Count>
+          <Count>124</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'BlacklistServiceImplTest.retrieve_latest...'">
@@ -119,6 +127,14 @@
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'Bluework3'</Description>
           <Count>24</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'CouponServiceImplTest.testCreateCoupon'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'CouponServiceImplTest.testCreateCoupon'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'MemberBenefitServiceImplTest.expire_poin...'">
@@ -233,6 +249,22 @@
           <Count>38</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'net.g1project.ecp.customer.service.impl ...'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'net.g1project.ecp.customer.service.impl ...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'net.g1project.ecp.sales.service.impl in ...'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'net.g1project.ecp.sales.service.impl in ...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'register_and_retri...()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -329,6 +361,22 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'testAddTgtProd2()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug 'testAddTgtProd2()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'testCreateCoupon()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug 'testCreateCoupon()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'use_point()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -414,7 +462,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>1091</Count>
+          <Count>1109</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -422,7 +470,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>83</Count>
+          <Count>84</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Console...">
@@ -542,7 +590,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>387</Count>
+          <Count>390</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -550,7 +598,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>61</Count>
+          <Count>62</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'BlacklistServiceImplTest'">
@@ -574,6 +622,14 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'BlacklistServiceImplTest.retrieve_latest...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'CouponServiceImplTest.testCreateCoupon'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'CouponServiceImplTest.testCreateCoupon'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -759,6 +815,14 @@
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'SourceCodeParseUtilsTest.retrieve_parame...'</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Tests in 'net.g1project.ecp.sales.servic...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'Tests in 'net.g1project.ecp.sales.servic...'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'build'">
@@ -1065,6 +1129,14 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'testCreateCoupon()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'testCreateCoupon()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'update_member_fina...()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1142,7 +1214,7 @@
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F7'</ShortCut>
           <Description>Step Into</Description>
-          <Count>175</Count>
+          <Count>176</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Out">
@@ -1150,7 +1222,7 @@
           <IdeaActionID>StepOut</IdeaActionID>
           <ShortCut>'⇧F8'</ShortCut>
           <Description>Step Out</Description>
-          <Count>78</Count>
+          <Count>84</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Over">
@@ -1158,7 +1230,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>319</Count>
+          <Count>324</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Bluework Entitymodeler'">
@@ -1254,7 +1326,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>218</Count>
+          <Count>221</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
@@ -1294,7 +1366,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>350</Count>
+          <Count>352</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
