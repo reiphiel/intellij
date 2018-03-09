@@ -46,7 +46,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>174</Count>
+          <Count>175</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare">
@@ -183,6 +183,14 @@
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'MemberReasonServiceImplTest.save_member_...'</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'MemberServiceImplTest.exists_own_verific...'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'MemberServiceImplTest.exists_own_verific...'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'MemberServiceImplTest.request_suspend_un...'">
@@ -462,7 +470,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>1154</Count>
+          <Count>1158</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -526,7 +534,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>89</Count>
+          <Count>90</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rebuild Module 'ecp-sales_test'">
@@ -873,6 +881,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'exists_own_verific...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'exists_own_verific...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'expire_point()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1214,7 +1230,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>201</Count>
+          <Count>203</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
@@ -1390,7 +1406,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>359</Count>
+          <Count>360</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
