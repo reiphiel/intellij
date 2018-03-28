@@ -22,7 +22,7 @@
           <IdeaActionID>ChangesView.AddUnversioned</IdeaActionID>
           <ShortCut>'⌥⌘A'</ShortCut>
           <Description>Add to VCS</Description>
-          <Count>56</Count>
+          <Count>59</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -54,7 +54,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>240</Count>
+          <Count>256</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare">
@@ -70,7 +70,7 @@
           <IdeaActionID>CompareTwoFiles</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Compare Files</Description>
-          <Count>16</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -86,7 +86,7 @@
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'⌥⇧⌘C'</ShortCut>
           <Description>Copy Reference</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Value">
@@ -118,7 +118,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>176</Count>
+          <Count>181</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'BlacklistServiceImplTest.retrieve_latest...'">
@@ -134,7 +134,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'Bluework Entitymodeler'</Description>
-          <Count>23</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Bluework3'">
@@ -142,7 +142,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'Bluework3'</Description>
-          <Count>35</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'CouponServiceImplTest.testCreateCoupon'">
@@ -286,7 +286,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'ecp3-bo'</Description>
-          <Count>441</Count>
+          <Count>483</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ecp3-rest-api'">
@@ -494,7 +494,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>223</Count>
+          <Count>233</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -526,7 +526,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>1511</Count>
+          <Count>1559</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -534,7 +534,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>127</Count>
+          <Count>131</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Console...">
@@ -566,7 +566,7 @@
           <IdeaActionID>OpenModuleSettings</IdeaActionID>
           <ShortCut>'F4'</ShortCut>
           <Description>Open Module Settings</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste">
@@ -598,7 +598,7 @@
           <IdeaActionID>FindBugs.PreviewSelectBugInstance</IdeaActionID>
           <ShortCut>'⌥Q' or '⌥Button1 Click'</ShortCut>
           <Description>Preview the current selected bug.</Description>
-          <Count>6</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -606,7 +606,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>127</Count>
+          <Count>131</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rebuild Module 'ecp-sales_test'">
@@ -638,7 +638,7 @@
           <IdeaActionID>XDebugger.RemoveWatch</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Remove Watch</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
@@ -646,7 +646,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'⇧F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>29</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Replace in Path...">
@@ -654,7 +654,7 @@
           <IdeaActionID>ReplaceInPath</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Replace in Path...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ecp3-bo'">
@@ -678,7 +678,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>589</Count>
+          <Count>611</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -686,7 +686,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>86</Count>
+          <Count>91</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -735,6 +735,14 @@
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'BlacklistServiceImplTest.retrieve_latest...'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'CouponServiceImplTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'CouponServiceImplTest'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'CouponServiceImplTest.testCreateCoupon'">
@@ -1062,7 +1070,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'net.g1project.ecp.customer.service.impl ...'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'register_address_n...()'">
@@ -1406,7 +1414,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>303</Count>
+          <Count>307</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
@@ -1446,7 +1454,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>555</Count>
+          <Count>578</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Bluework Entitymodeler'">
@@ -1534,7 +1542,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>54</Count>
+          <Count>56</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -1542,7 +1550,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>307</Count>
+          <Count>323</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
@@ -1574,7 +1582,7 @@
           <IdeaActionID>javaee.UpdateRunningApplication</IdeaActionID>
           <ShortCut>'⌘F10'</ShortCut>
           <Description>Update 'ecp3-bo' application</Description>
-          <Count>333</Count>
+          <Count>351</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update 'ecp3-rest-api' application">
@@ -1598,7 +1606,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>513</Count>
+          <Count>542</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
