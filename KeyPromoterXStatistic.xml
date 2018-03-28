@@ -22,7 +22,7 @@
           <IdeaActionID>ChangesView.AddUnversioned</IdeaActionID>
           <ShortCut>'⌥⌘A'</ShortCut>
           <Description>Add to VCS</Description>
-          <Count>60</Count>
+          <Count>62</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -54,7 +54,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>259</Count>
+          <Count>261</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare">
@@ -1422,7 +1422,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>313</Count>
+          <Count>314</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
@@ -1598,7 +1598,7 @@
           <IdeaActionID>javaee.UpdateRunningApplication</IdeaActionID>
           <ShortCut>'⌘F10'</ShortCut>
           <Description>Update 'ecp3-bo' application</Description>
-          <Count>355</Count>
+          <Count>356</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update 'ecp3-rest-api' application">
@@ -1622,7 +1622,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>551</Count>
+          <Count>552</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
