@@ -150,7 +150,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'Bluework3'</Description>
-          <Count>38</Count>
+          <Count>39</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'CouponServiceImplTest.testCreateCoupon'">
@@ -159,6 +159,14 @@
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'CouponServiceImplTest.testCreateCoupon'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'EntitySourceGenUtilsTest.aaa'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'EntitySourceGenUtilsTest.aaa'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'MemberAttrServiceImplTest'">
@@ -454,7 +462,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>65</Count>
+          <Count>79</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -510,7 +518,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>243</Count>
+          <Count>244</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -550,7 +558,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>136</Count>
+          <Count>137</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Console...">
@@ -630,7 +638,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>135</Count>
+          <Count>136</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rebuild Module 'ecp-sales_test'">
@@ -1014,6 +1022,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'Tests in 'net.g1project.ecp.sales.servic...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'aaa()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'aaa()'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1462,7 +1478,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>317</Count>
+          <Count>318</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
@@ -1662,7 +1678,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>561</Count>
+          <Count>563</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
