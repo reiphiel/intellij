@@ -54,7 +54,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>267</Count>
+          <Count>268</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare">
@@ -175,6 +175,14 @@
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'MemberAttrServiceImplTest'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'MemberAttrServiceImplTest.retrieve_membe...'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'MemberAttrServiceImplTest.retrieve_membe...'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'MemberBenefitServiceImplTest.expire_poin...'">
@@ -302,7 +310,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'ecp3-bo'</Description>
-          <Count>496</Count>
+          <Count>497</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ecp3-rest-api'">
@@ -358,6 +366,14 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Debug 'retrieve_effective...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'retrieve_member_at...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug 'retrieve_member_at...()'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -462,7 +478,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>107</Count>
+          <Count>114</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -518,7 +534,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>247</Count>
+          <Count>248</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -558,7 +574,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>146</Count>
+          <Count>148</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Console...">
@@ -638,7 +654,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>143</Count>
+          <Count>145</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rebuild Module 'ecp-sales_test'">
@@ -710,7 +726,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>632</Count>
+          <Count>660</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1478,7 +1494,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>328</Count>
+          <Count>330</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
@@ -1518,7 +1534,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>595</Count>
+          <Count>683</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Bluework Entitymodeler'">
@@ -1622,7 +1638,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>335</Count>
+          <Count>342</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
@@ -1678,7 +1694,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>572</Count>
+          <Count>573</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
