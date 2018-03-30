@@ -993,6 +993,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'MembershipServiceImplTest.create_and_ret...'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'MembershipServiceImplTest.create_and_ret...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'MembershipServiceImplTest.retrieve_defau...'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -1086,7 +1094,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'create_and_retriev...()'</Description>
-          <Count>6</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'exists_member_id_t...()'">
