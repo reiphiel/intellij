@@ -22,7 +22,7 @@
           <IdeaActionID>ChangesView.AddUnversioned</IdeaActionID>
           <ShortCut>'⌥⌘A'</ShortCut>
           <Description>Add to VCS</Description>
-          <Count>63</Count>
+          <Count>64</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -54,7 +54,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>284</Count>
+          <Count>286</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare">
@@ -1718,7 +1718,7 @@
           <IdeaActionID>ShelveChanges.UnshelveWithDialog</IdeaActionID>
           <ShortCut>'⇧⌘U'</ShortCut>
           <Description>Unshelve...</Description>
-          <Count>33</Count>
+          <Count>34</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update 'Bluework Entitymodeler' application">
@@ -1766,7 +1766,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>621</Count>
+          <Count>622</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
