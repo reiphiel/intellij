@@ -54,7 +54,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>283</Count>
+          <Count>284</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare">
@@ -558,7 +558,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>257</Count>
+          <Count>258</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -1558,7 +1558,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>370</Count>
+          <Count>373</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
@@ -1766,7 +1766,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>616</Count>
+          <Count>618</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
