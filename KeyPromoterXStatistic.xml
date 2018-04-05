@@ -342,7 +342,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'ecp3-rest-api'</Description>
-          <Count>81</Count>
+          <Count>84</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'net.g1project.ecp.customer.service.impl ...'">
@@ -502,7 +502,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>303</Count>
+          <Count>315</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -750,7 +750,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>701</Count>
+          <Count>704</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1558,7 +1558,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>378</Count>
+          <Count>379</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
@@ -1582,7 +1582,7 @@
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F7'</ShortCut>
           <Description>Step Into</Description>
-          <Count>180</Count>
+          <Count>184</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Out">
@@ -1598,7 +1598,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>728</Count>
+          <Count>745</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Bluework Entitymodeler'">
@@ -1710,7 +1710,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>375</Count>
+          <Count>378</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
@@ -1750,7 +1750,7 @@
           <IdeaActionID>javaee.UpdateRunningApplication</IdeaActionID>
           <ShortCut>'⌘F10'</ShortCut>
           <Description>Update 'ecp3-rest-api' application</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project...">
@@ -1766,7 +1766,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>629</Count>
+          <Count>632</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
