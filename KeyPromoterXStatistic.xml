@@ -54,7 +54,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>291</Count>
+          <Count>292</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare">
@@ -334,7 +334,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'ecp3-bo'</Description>
-          <Count>518</Count>
+          <Count>520</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ecp3-rest-api'">
@@ -598,7 +598,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>174</Count>
+          <Count>175</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Console...">
@@ -678,7 +678,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>174</Count>
+          <Count>175</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rebuild Module 'ecp-sales_test'">
@@ -750,7 +750,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>704</Count>
+          <Count>705</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1558,7 +1558,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>382</Count>
+          <Count>385</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
@@ -1766,7 +1766,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>639</Count>
+          <Count>642</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
