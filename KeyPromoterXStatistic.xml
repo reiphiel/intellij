@@ -134,7 +134,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'Application'</Description>
-          <Count>22</Count>
+          <Count>32</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Application.main()'">
@@ -1702,7 +1702,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Application'</Description>
-          <Count>23</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Bluework Entitymodeler'">
