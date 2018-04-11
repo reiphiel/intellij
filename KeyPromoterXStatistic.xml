@@ -134,7 +134,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'Application'</Description>
-          <Count>14</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Application.main()'">
@@ -662,7 +662,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>181</Count>
+          <Count>182</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Console...">
@@ -742,7 +742,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>181</Count>
+          <Count>182</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rebuild Module 'ecp-sales_test'">
@@ -782,7 +782,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'⇧F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>39</Count>
+          <Count>40</Count>
         </Item>
       </Statistic>
       <Statistic Action="Replace in Path...">
@@ -1694,7 +1694,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Application'</Description>
-          <Count>15</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Bluework Entitymodeler'">
