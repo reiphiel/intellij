@@ -321,6 +321,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'SNSIfServiceImplTest.retrieve_facebook_u...'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'SNSIfServiceImplTest.retrieve_facebook_u...'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'SNSIfServiceImplTest.retrieve_kakao_user'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -430,6 +438,14 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Debug 'retrieve_effective...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'retrieve_facebook_...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug 'retrieve_facebook_...()'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -630,7 +646,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>290</Count>
+          <Count>291</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -822,7 +838,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>821</Count>
+          <Count>828</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1694,7 +1710,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>771</Count>
+          <Count>772</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Application'">
@@ -1814,7 +1830,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>424</Count>
+          <Count>427</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
@@ -1870,7 +1886,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>657</Count>
+          <Count>658</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
