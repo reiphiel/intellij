@@ -217,6 +217,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'MemberAuthServiceImplTest.connect_member...'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'MemberAuthServiceImplTest.connect_member...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'MemberBenefitServiceImplTest.expire_poin...'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -375,6 +383,14 @@
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'bluework-entitymodeler:bluework-entitymo...'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'connect_member_sns...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug 'connect_member_sns...()'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'create_and_retriev...()'">
@@ -598,7 +614,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>433</Count>
+          <Count>434</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1854,7 +1870,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>430</Count>
+          <Count>431</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
