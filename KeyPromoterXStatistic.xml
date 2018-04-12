@@ -78,7 +78,7 @@
           <IdeaActionID>CompareTwoFiles</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Compare Files</Description>
-          <Count>18</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -961,6 +961,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'MemberAuthServiceImplTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'MemberAuthServiceImplTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'MemberBenefitServiceImplTest'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1678,7 +1686,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>398</Count>
+          <Count>399</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
