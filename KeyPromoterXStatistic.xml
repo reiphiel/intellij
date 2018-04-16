@@ -1361,6 +1361,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'net.g1project.ecp in ecp-sales_test'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'net.g1project.ecp in ecp-sales_test'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'net.g1project.ecp.customer.service.impl ...'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -1839,6 +1847,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'ecp3-rest-api'</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'net.g1project.ecp in ecp-sales_test'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'net.g1project.ecp in ecp-sales_test'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'net.g1project.ecp.customer.service.impl in ecp-sales_test'">
