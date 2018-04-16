@@ -62,7 +62,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>317</Count>
+          <Count>318</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare">
@@ -174,7 +174,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'Bluework3'</Description>
-          <Count>52</Count>
+          <Count>56</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'CouponServiceImplTest.testCreateCoupon'">
@@ -614,7 +614,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>467</Count>
+          <Count>480</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -678,7 +678,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>300</Count>
+          <Count>303</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -790,7 +790,7 @@
           <IdeaActionID>FindBugs.PreviewSelectBugInstance</IdeaActionID>
           <ShortCut>'⌥Q' or '⌥Button1 Click'</ShortCut>
           <Description>Preview the current selected bug.</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -798,7 +798,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>191</Count>
+          <Count>192</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rebuild Module 'ecp-sales_test'">
@@ -870,7 +870,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>853</Count>
+          <Count>854</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1726,7 +1726,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>415</Count>
+          <Count>416</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
@@ -1942,7 +1942,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>685</Count>
+          <Count>688</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
