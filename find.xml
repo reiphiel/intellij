@@ -3,39 +3,9 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.java,*.properties</mask>
-      <mask>**.java,*.properties</mask>
-      <mask>*.*.java,*.properties</mask>
-      <mask>*.g*.java,*.properties</mask>
-      <mask>*.gr*.java,*.properties</mask>
-      <mask>*.gra*.java,*.properties</mask>
-      <mask>*.grad*.java,*.properties</mask>
-      <mask>*.gradl*.java,*.properties</mask>
-      <mask>*.gradle.*.java,*.properties</mask>
-      <mask>*.gradle*.java,*.properties</mask>
-      <mask>*.gradle,*.java,*.properties</mask>
-      <mask>*.gradle,*.java,*.properties,</mask>
-      <mask>*.gradle,*.java,*.properties,*</mask>
-      <mask>*.gradle,*.java,*.properties,*x</mask>
-      <mask>*.gradle,*.java,*.properties,*xml</mask>
-      <mask>*</mask>
-      <mask>*.ja</mask>
-      <mask>*.jav</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.g</mask>
-      <mask>*.gr</mask>
-      <mask>*.gra</mask>
-      <mask>*.grad</mask>
-      <mask>*.gradl</mask>
-      <mask>*Service*.java</mask>
-      <mask>*Service.java</mask>
-      <mask>*.gradle</mask>
-      <mask>build.gradle</mask>
-      <mask>*.java</mask>
-    </recentFileMasks>
   </component>
 </application>
