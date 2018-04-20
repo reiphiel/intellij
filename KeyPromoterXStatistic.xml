@@ -33,6 +33,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Basic">
+        <Item>
+          <IdeaActionID>CodeCompletion</IdeaActionID>
+          <ShortCut>'⌃Space'</ShortCut>
+          <Description>Basic</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Close">
         <Item>
           <IdeaActionID>CloseContent</IdeaActionID>
@@ -630,7 +638,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>598</Count>
+          <Count>599</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -702,7 +710,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>334</Count>
+          <Count>335</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -1790,7 +1798,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>454</Count>
+          <Count>456</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
@@ -2014,7 +2022,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>760</Count>
+          <Count>761</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
