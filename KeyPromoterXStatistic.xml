@@ -422,7 +422,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'ecp3-bo'</Description>
-          <Count>618</Count>
+          <Count>619</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ecp3-rest-api'">
@@ -638,7 +638,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>599</Count>
+          <Count>600</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -870,7 +870,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'⇧F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>43</Count>
+          <Count>44</Count>
         </Item>
       </Statistic>
       <Statistic Action="Replace in Path...">
@@ -910,7 +910,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>122</Count>
+          <Count>123</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -1798,7 +1798,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>456</Count>
+          <Count>460</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
