@@ -142,7 +142,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>264</Count>
+          <Count>265</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Application'">
