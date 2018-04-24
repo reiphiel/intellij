@@ -70,7 +70,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>346</Count>
+          <Count>347</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare">
@@ -190,7 +190,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'Bluework3'</Description>
-          <Count>82</Count>
+          <Count>83</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'CouponServiceImplTest.testCreateCoupon'">
@@ -902,7 +902,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1021</Count>
+          <Count>1026</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1798,7 +1798,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>474</Count>
+          <Count>475</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
@@ -1966,7 +1966,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>503</Count>
+          <Count>504</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
@@ -1990,7 +1990,7 @@
           <IdeaActionID>javaee.UpdateRunningApplication</IdeaActionID>
           <ShortCut>'⌘F10'</ShortCut>
           <Description>Update 'Bluework3' application</Description>
-          <Count>46</Count>
+          <Count>47</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update 'ecp3-bo' application">
@@ -2022,7 +2022,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>793</Count>
+          <Count>796</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
