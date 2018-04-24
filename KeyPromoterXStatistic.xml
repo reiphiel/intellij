@@ -190,7 +190,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'Bluework3'</Description>
-          <Count>65</Count>
+          <Count>66</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'CouponServiceImplTest.testCreateCoupon'">
@@ -750,7 +750,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>216</Count>
+          <Count>217</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Console...">
@@ -830,7 +830,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>215</Count>
+          <Count>216</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rebuild Module 'ecp-sales_test'">
