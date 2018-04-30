@@ -70,7 +70,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>364</Count>
+          <Count>365</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare">
@@ -718,7 +718,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>362</Count>
+          <Count>363</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -758,7 +758,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>235</Count>
+          <Count>236</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Console...">
@@ -838,7 +838,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>233</Count>
+          <Count>235</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rebuild Module 'ecp-sales_test'">
@@ -918,7 +918,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>133</Count>
+          <Count>134</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -2046,7 +2046,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>820</Count>
+          <Count>822</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
