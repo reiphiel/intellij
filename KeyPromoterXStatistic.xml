@@ -646,7 +646,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>954</Count>
+          <Count>955</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1830,7 +1830,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>495</Count>
+          <Count>499</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
@@ -2054,7 +2054,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>839</Count>
+          <Count>840</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
