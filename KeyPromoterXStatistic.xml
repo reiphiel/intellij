@@ -430,7 +430,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'ecp3-bo'</Description>
-          <Count>640</Count>
+          <Count>641</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ecp3-rest-api'">
@@ -646,7 +646,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>864</Count>
+          <Count>865</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -758,7 +758,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>243</Count>
+          <Count>244</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Console...">
@@ -1830,7 +1830,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>491</Count>
+          <Count>492</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
@@ -2054,7 +2054,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>829</Count>
+          <Count>831</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
