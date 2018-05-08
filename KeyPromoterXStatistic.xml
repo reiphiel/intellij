@@ -662,7 +662,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1094</Count>
+          <Count>1095</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -774,7 +774,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>259</Count>
+          <Count>260</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Console...">
@@ -1854,7 +1854,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>501</Count>
+          <Count>502</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
@@ -2078,7 +2078,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>850</Count>
+          <Count>851</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
