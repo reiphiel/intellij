@@ -70,7 +70,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>398</Count>
+          <Count>400</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare">
@@ -678,7 +678,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1145</Count>
+          <Count>1146</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -798,7 +798,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>293</Count>
+          <Count>294</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Console...">
@@ -878,7 +878,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>288</Count>
+          <Count>289</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -974,7 +974,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>143</Count>
+          <Count>144</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -1886,7 +1886,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>519</Count>
+          <Count>525</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
@@ -2110,7 +2110,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>881</Count>
+          <Count>887</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
