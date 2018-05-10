@@ -2022,7 +2022,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>118</Count>
+          <Count>120</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -2030,7 +2030,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>545</Count>
+          <Count>547</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
@@ -2086,7 +2086,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>874</Count>
+          <Count>875</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
