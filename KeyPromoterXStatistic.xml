@@ -2110,7 +2110,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>898</Count>
+          <Count>900</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
