@@ -2110,7 +2110,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>567</Count>
+          <Count>568</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
@@ -2166,7 +2166,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>917</Count>
+          <Count>918</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
