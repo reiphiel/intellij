@@ -462,7 +462,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'ecp3-bo'</Description>
-          <Count>669</Count>
+          <Count>670</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ecp3-rest-api'">
@@ -902,7 +902,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>298</Count>
+          <Count>299</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -1942,7 +1942,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>547</Count>
+          <Count>551</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
@@ -2166,7 +2166,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>916</Count>
+          <Count>917</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
