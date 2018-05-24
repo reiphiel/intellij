@@ -694,7 +694,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1259</Count>
+          <Count>1260</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -822,7 +822,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>315</Count>
+          <Count>316</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Console...">
@@ -902,7 +902,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>307</Count>
+          <Count>308</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -998,7 +998,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>149</Count>
+          <Count>150</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -2190,7 +2190,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>936</Count>
+          <Count>937</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
