@@ -70,7 +70,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>413</Count>
+          <Count>416</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare">
@@ -150,7 +150,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>304</Count>
+          <Count>305</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ApPasswordEncoderTest'">
@@ -2166,7 +2166,7 @@
           <IdeaActionID>javaee.UpdateRunningApplication</IdeaActionID>
           <ShortCut>'⌘F10'</ShortCut>
           <Description>Update 'ecp3-bo' application</Description>
-          <Count>419</Count>
+          <Count>420</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update 'ecp3-rest-api' application">
@@ -2190,7 +2190,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>934</Count>
+          <Count>936</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
