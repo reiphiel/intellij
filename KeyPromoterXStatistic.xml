@@ -70,7 +70,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>412</Count>
+          <Count>413</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare">
@@ -1393,6 +1393,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Tests in 'net.g1project.ecp.customer.service.impl''">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'Tests in 'net.g1project.ecp.customer.service.impl''</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Tests in 'net.g1project.ecp.sales''">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1406,6 +1414,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'Tests in 'net.g1project.ecp.sales.servic...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Tests in 'net.g1project.ecp.sales.service.impl''">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'Tests in 'net.g1project.ecp.sales.service.impl''</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1558,6 +1574,14 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'net.g1project.ecp.sales.service.impl in ...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'net.g1project.ecp.sales.service.impl in ecp-sales_test'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'net.g1project.ecp.sales.service.impl in ecp-sales_test'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -2054,7 +2078,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'net.g1project.ecp.customer.service.impl in ecp-sales_test'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'net.g1project.ecp.sales.service.impl in ecp-sales_test'">
@@ -2062,7 +2086,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'net.g1project.ecp.sales.service.impl in ecp-sales_test'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop...">
@@ -2166,7 +2190,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>933</Count>
+          <Count>934</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
