@@ -70,7 +70,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>434</Count>
+          <Count>435</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare">
@@ -150,7 +150,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>309</Count>
+          <Count>312</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ApPasswordEncoderTest'">
@@ -206,7 +206,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'Bluework3'</Description>
-          <Count>98</Count>
+          <Count>99</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'CouponServiceImplTest.testCreateCoupon'">
@@ -694,7 +694,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1320</Count>
+          <Count>1321</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -782,7 +782,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>436</Count>
+          <Count>438</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -822,7 +822,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>348</Count>
+          <Count>355</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Console...">
@@ -902,7 +902,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>336</Count>
+          <Count>337</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -982,7 +982,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Restore Windows</Description>
-          <Count>11</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
@@ -2174,7 +2174,7 @@
           <IdeaActionID>javaee.UpdateRunningApplication</IdeaActionID>
           <ShortCut>'⌘F10'</ShortCut>
           <Description>Update 'Bluework3' application</Description>
-          <Count>56</Count>
+          <Count>59</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update 'ecp3-bo' application">
@@ -2206,7 +2206,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>974</Count>
+          <Count>975</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
