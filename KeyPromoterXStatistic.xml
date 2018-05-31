@@ -70,7 +70,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>436</Count>
+          <Count>437</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare">
@@ -2174,7 +2174,7 @@
           <IdeaActionID>javaee.UpdateRunningApplication</IdeaActionID>
           <ShortCut>'⌘F10'</ShortCut>
           <Description>Update 'Bluework3' application</Description>
-          <Count>60</Count>
+          <Count>61</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update 'ecp3-bo' application">
@@ -2206,7 +2206,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>978</Count>
+          <Count>979</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
