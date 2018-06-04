@@ -830,7 +830,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>366</Count>
+          <Count>367</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Console...">
@@ -918,7 +918,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>350</Count>
+          <Count>351</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -2238,7 +2238,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>989</Count>
+          <Count>990</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
