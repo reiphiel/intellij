@@ -22,7 +22,7 @@
           <IdeaActionID>ChangesView.AddUnversioned</IdeaActionID>
           <ShortCut>'⌥⌘A'</ShortCut>
           <Description>Add to VCS</Description>
-          <Count>101</Count>
+          <Count>102</Count>
         </Item>
       </Statistic>
       <Statistic Action="Analyze Current File">
@@ -70,7 +70,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>444</Count>
+          <Count>445</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare">
@@ -1022,7 +1022,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>154</Count>
+          <Count>155</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -2270,7 +2270,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>993</Count>
+          <Count>994</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
