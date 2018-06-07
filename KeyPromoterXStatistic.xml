@@ -22,7 +22,7 @@
           <IdeaActionID>ChangesView.AddUnversioned</IdeaActionID>
           <ShortCut>'⌥⌘A'</ShortCut>
           <Description>Add to VCS</Description>
-          <Count>102</Count>
+          <Count>103</Count>
         </Item>
       </Statistic>
       <Statistic Action="Analyze Current File">
@@ -70,7 +70,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>445</Count>
+          <Count>446</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare">
@@ -830,7 +830,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>1623</Count>
+          <Count>1627</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -838,7 +838,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>379</Count>
+          <Count>380</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Console...">
@@ -926,7 +926,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>360</Count>
+          <Count>361</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -1118,6 +1118,14 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'CouponServiceImplTest.testCreateCoupon'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'DepositServiceImplTest.save_and_retrieve_deposit_refund_bank_account'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'DepositServiceImplTest.save_and_retrieve_deposit_refund_bank_account'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -2038,7 +2046,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>591</Count>
+          <Count>592</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
@@ -2270,7 +2278,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>997</Count>
+          <Count>998</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
