@@ -206,7 +206,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'Bluework Entitymodeler'</Description>
-          <Count>60</Count>
+          <Count>62</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Bluework3'">
@@ -1022,7 +1022,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1222</Count>
+          <Count>1223</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
