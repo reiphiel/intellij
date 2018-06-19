@@ -774,7 +774,7 @@
           <IdeaActionID>Console.Jdbc.Execute</IdeaActionID>
           <ShortCut>'⌘⏎'</ShortCut>
           <Description>Execute</Description>
-          <Count>80</Count>
+          <Count>93</Count>
         </Item>
       </Statistic>
       <Statistic Action="Expand">
@@ -846,7 +846,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>434</Count>
+          <Count>435</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Console...">
