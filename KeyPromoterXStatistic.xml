@@ -934,7 +934,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>435</Count>
+          <Count>436</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
