@@ -822,7 +822,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>497</Count>
+          <Count>498</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -854,7 +854,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>1876</Count>
+          <Count>1882</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -862,7 +862,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>472</Count>
+          <Count>473</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Console...">
@@ -950,7 +950,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>443</Count>
+          <Count>444</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -2102,7 +2102,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>660</Count>
+          <Count>661</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
@@ -2334,7 +2334,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1153</Count>
+          <Count>1154</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
