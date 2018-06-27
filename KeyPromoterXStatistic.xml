@@ -830,7 +830,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>508</Count>
+          <Count>509</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -870,7 +870,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>479</Count>
+          <Count>480</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Console...">
