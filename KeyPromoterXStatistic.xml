@@ -70,7 +70,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>532</Count>
+          <Count>533</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare">
@@ -2366,7 +2366,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1161</Count>
+          <Count>1163</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
