@@ -70,7 +70,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>538</Count>
+          <Count>540</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare">
@@ -2302,7 +2302,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>662</Count>
+          <Count>664</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
@@ -2366,7 +2366,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1172</Count>
+          <Count>1173</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
