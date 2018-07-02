@@ -862,7 +862,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>535</Count>
+          <Count>536</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -894,7 +894,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>2007</Count>
+          <Count>2009</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -902,7 +902,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>494</Count>
+          <Count>495</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Console...">
@@ -990,7 +990,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>463</Count>
+          <Count>464</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -2206,7 +2206,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>670</Count>
+          <Count>671</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
