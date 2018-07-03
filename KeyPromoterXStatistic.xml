@@ -78,7 +78,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>562</Count>
+          <Count>563</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare">
@@ -534,7 +534,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'ecp3-batch'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ecp3-bo'">
@@ -1014,7 +1014,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>469</Count>
+          <Count>470</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -2286,7 +2286,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>673</Count>
+          <Count>674</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
@@ -2470,7 +2470,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>189</Count>
+          <Count>190</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -2550,7 +2550,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1223</Count>
+          <Count>1227</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
