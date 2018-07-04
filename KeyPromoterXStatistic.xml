@@ -22,7 +22,7 @@
           <IdeaActionID>ChangesView.AddUnversioned</IdeaActionID>
           <ShortCut>'⌥⌘A'</ShortCut>
           <Description>Add to VCS</Description>
-          <Count>124</Count>
+          <Count>125</Count>
         </Item>
       </Statistic>
       <Statistic Action="Analyze Current File">
@@ -78,7 +78,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>564</Count>
+          <Count>567</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare">
@@ -321,6 +321,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'MemberBenefitActivityPointServiceTest.retrieve_expiration_activity_point_targets'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'MemberBenefitActivityPointServiceTest.retrieve_expiration_activity_point_targets'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'MemberBenefitActivityPointServiceTest.r…_restoration_activity_point_gift_targets'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -550,7 +558,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'ecp3-batch'</Description>
-          <Count>7</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ecp3-bo'">
@@ -910,7 +918,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>550</Count>
+          <Count>551</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -942,7 +950,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>2046</Count>
+          <Count>2050</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -950,7 +958,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>507</Count>
+          <Count>508</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Console...">
@@ -1038,7 +1046,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>471</Count>
+          <Count>472</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -1142,7 +1150,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1344</Count>
+          <Count>1346</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1375,6 +1383,14 @@
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'MemberBenefitActivityPointServiceTest.receive_activity_point_gift'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'MemberBenefitActivityPointServiceTest.retrieve_expiration_activity_point_targets'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'MemberBenefitActivityPointServiceTest.retrieve_expiration_activity_point_targets'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'MemberBenefitActivityPointServiceTest.r…_restoration_activity_point_gift_targets'">
@@ -1961,6 +1977,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'retrieve_expiratio...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'retrieve_expiratio...()'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'retrieve_extended_...()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -2350,7 +2374,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>1186</Count>
+          <Count>1187</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'APtest.aaa'">
@@ -2383,6 +2407,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Bluework3'</Description>
           <Count>12</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'MemberBenefitActivityPointServiceTest.retrieve_expiration_activity_point_targets'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'MemberBenefitActivityPointServiceTest.retrieve_expiration_activity_point_targets'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'MemberLevelPolicyServiceTest.retrieve_member_level_std_cate_policy'">
@@ -2502,7 +2534,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>690</Count>
+          <Count>691</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
@@ -2574,7 +2606,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1231</Count>
+          <Count>1234</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
