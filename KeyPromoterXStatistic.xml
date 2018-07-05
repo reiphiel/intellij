@@ -78,7 +78,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>574</Count>
+          <Count>575</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare">
@@ -574,7 +574,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'ecp3-bo'</Description>
-          <Count>835</Count>
+          <Count>837</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ecp3-rest-api'">
@@ -1174,7 +1174,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>193</Count>
+          <Count>194</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -2422,7 +2422,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>682</Count>
+          <Count>683</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
@@ -2694,7 +2694,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1247</Count>
+          <Count>1248</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
