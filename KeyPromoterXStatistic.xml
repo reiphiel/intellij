@@ -166,7 +166,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>369</Count>
+          <Count>370</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ApPasswordEncoderTest'">
@@ -335,6 +335,14 @@
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'MemberBenefitActivityPointServiceTest.r…_restoration_activity_point_gift_targets'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'MemberBenefitActivityPointServiceTest.s…y_point_gft_scheduled_cancel_via_message'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'MemberBenefitActivityPointServiceTest.s…y_point_gft_scheduled_cancel_via_message'</Description>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'MemberBenefitServiceImplTest.expire_poin...'">
@@ -745,6 +753,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'send_guide_activit...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug 'send_guide_activit...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'set_member_blackli...()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -950,7 +966,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>2061</Count>
+          <Count>2067</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -1150,7 +1166,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1347</Count>
+          <Count>1355</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -2422,7 +2438,7 @@
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F7'</ShortCut>
           <Description>Step Into</Description>
-          <Count>218</Count>
+          <Count>220</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Out">
@@ -2430,7 +2446,7 @@
           <IdeaActionID>StepOut</IdeaActionID>
           <ShortCut>'⇧F8'</ShortCut>
           <Description>Step Out</Description>
-          <Count>200</Count>
+          <Count>206</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Over">
@@ -2438,7 +2454,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>1187</Count>
+          <Count>1188</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'APtest.aaa'">
@@ -2598,7 +2614,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>695</Count>
+          <Count>698</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
