@@ -934,7 +934,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>553</Count>
+          <Count>555</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -966,7 +966,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>2075</Count>
+          <Count>2078</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
