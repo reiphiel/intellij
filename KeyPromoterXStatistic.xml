@@ -934,7 +934,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>569</Count>
+          <Count>570</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -2454,7 +2454,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>688</Count>
+          <Count>691</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
@@ -2726,7 +2726,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1268</Count>
+          <Count>1269</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
