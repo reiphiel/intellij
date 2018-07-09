@@ -78,7 +78,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>586</Count>
+          <Count>587</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare">
@@ -1174,7 +1174,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>198</Count>
+          <Count>199</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -2454,7 +2454,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>691</Count>
+          <Count>695</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
