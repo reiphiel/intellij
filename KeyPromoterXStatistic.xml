@@ -78,7 +78,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>580</Count>
+          <Count>582</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare">
@@ -934,7 +934,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>561</Count>
+          <Count>565</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -966,7 +966,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>2097</Count>
+          <Count>2104</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -974,7 +974,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>517</Count>
+          <Count>518</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Console...">
@@ -1062,7 +1062,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>481</Count>
+          <Count>482</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -1905,6 +1905,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'loginException()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'loginException()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'net.g1project.ecp in ecp-sales_test'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -2430,7 +2438,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>685</Count>
+          <Count>686</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
@@ -2702,7 +2710,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1258</Count>
+          <Count>1261</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
