@@ -966,7 +966,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>2145</Count>
+          <Count>2146</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -1062,7 +1062,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>497</Count>
+          <Count>499</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
