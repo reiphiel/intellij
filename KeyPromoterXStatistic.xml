@@ -2654,7 +2654,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>706</Count>
+          <Count>707</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
