@@ -974,7 +974,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>533</Count>
+          <Count>534</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Console...">
@@ -2454,7 +2454,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>695</Count>
+          <Count>696</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
@@ -2726,7 +2726,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1269</Count>
+          <Count>1270</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
