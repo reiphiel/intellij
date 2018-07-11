@@ -78,7 +78,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>599</Count>
+          <Count>600</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare">
@@ -582,7 +582,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'ecp3-rest-api'</Description>
-          <Count>278</Count>
+          <Count>280</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'encode()'">
@@ -966,7 +966,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>2177</Count>
+          <Count>2179</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -974,7 +974,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>549</Count>
+          <Count>550</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Console...">
@@ -1062,7 +1062,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>510</Count>
+          <Count>511</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -2030,7 +2030,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'request_mobile_ver...()'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'request_suspend_un...()'">
@@ -2766,7 +2766,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1294</Count>
+          <Count>1295</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
