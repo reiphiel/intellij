@@ -70,7 +70,7 @@
           <IdeaActionID>Vcs.ShowMessageHistory</IdeaActionID>
           <ShortCut>'⌃M' or '⌘E'</ShortCut>
           <Description>Commit Message History</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -78,7 +78,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>602</Count>
+          <Count>605</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare">
@@ -974,7 +974,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>553</Count>
+          <Count>554</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Console...">
@@ -1062,7 +1062,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>512</Count>
+          <Count>513</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -2486,7 +2486,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>716</Count>
+          <Count>717</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
@@ -2694,7 +2694,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>713</Count>
+          <Count>716</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
