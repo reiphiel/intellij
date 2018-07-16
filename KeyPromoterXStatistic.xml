@@ -166,7 +166,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>402</Count>
+          <Count>403</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ApPasswordEncoderTest'">
@@ -950,7 +950,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>634</Count>
+          <Count>635</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -982,7 +982,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>2310</Count>
+          <Count>2316</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -990,7 +990,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>606</Count>
+          <Count>608</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Console...">
@@ -1078,7 +1078,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>557</Count>
+          <Count>559</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -2574,7 +2574,7 @@
           <IdeaActionID>StepOut</IdeaActionID>
           <ShortCut>'⇧F8'</ShortCut>
           <Description>Step Out</Description>
-          <Count>231</Count>
+          <Count>232</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Over">
@@ -2750,7 +2750,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>771</Count>
+          <Count>773</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
@@ -2822,7 +2822,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1426</Count>
+          <Count>1428</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
