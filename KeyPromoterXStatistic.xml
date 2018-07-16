@@ -78,7 +78,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>672</Count>
+          <Count>673</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare">
@@ -950,7 +950,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>636</Count>
+          <Count>638</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -982,7 +982,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>2328</Count>
+          <Count>2335</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -990,7 +990,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>613</Count>
+          <Count>615</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Console...">
@@ -1078,7 +1078,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>561</Count>
+          <Count>563</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -2822,7 +2822,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1431</Count>
+          <Count>1432</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
