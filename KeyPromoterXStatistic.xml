@@ -942,7 +942,7 @@
           <IdeaActionID>ActivateFindToolWindow</IdeaActionID>
           <ShortCut>'⌘3'</ShortCut>
           <Description>Find</Description>
-          <Count>12</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Usages">
@@ -950,7 +950,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>664</Count>
+          <Count>666</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -982,7 +982,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>2390</Count>
+          <Count>2391</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -1134,7 +1134,7 @@
           <IdeaActionID>UsageView.Remove</IdeaActionID>
           <ShortCut>'⌘X' or '⇧⌦'</ShortCut>
           <Description>Remove</Description>
-          <Count>30</Count>
+          <Count>36</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove Watch">
@@ -1230,6 +1230,14 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'ApCustomerServiceImplTest.retrieve_exten...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ApMemberServiceImplTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'ApMemberServiceImplTest'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1897,6 +1905,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'exists_member_id()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'exists_member_id()'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'exists_member_id_t...()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -2550,7 +2566,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>794</Count>
+          <Count>798</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
@@ -2830,7 +2846,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1469</Count>
+          <Count>1471</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
