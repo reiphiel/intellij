@@ -78,7 +78,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>694</Count>
+          <Count>695</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare">
@@ -950,7 +950,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>666</Count>
+          <Count>670</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -982,7 +982,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>2391</Count>
+          <Count>2400</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -990,7 +990,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>639</Count>
+          <Count>641</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Console...">
@@ -1078,7 +1078,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>577</Count>
+          <Count>580</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -1174,7 +1174,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Restore Windows</Description>
-          <Count>36</Count>
+          <Count>37</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
@@ -2566,7 +2566,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>798</Count>
+          <Count>799</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
@@ -2766,7 +2766,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>238</Count>
+          <Count>239</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -2782,7 +2782,7 @@
           <IdeaActionID>ShelveChanges.UnshelveWithDialog</IdeaActionID>
           <ShortCut>'⇧⌘U'</ShortCut>
           <Description>Unshelve...</Description>
-          <Count>63</Count>
+          <Count>64</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update 'Bluework Entitymodeler' application">
@@ -2846,7 +2846,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1471</Count>
+          <Count>1473</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
