@@ -78,7 +78,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>680</Count>
+          <Count>681</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare">
@@ -590,7 +590,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'ecp3-bo'</Description>
-          <Count>892</Count>
+          <Count>893</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ecp3-rest-api'">
@@ -990,7 +990,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>630</Count>
+          <Count>632</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Console...">
@@ -2822,7 +2822,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1450</Count>
+          <Count>1452</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
