@@ -998,7 +998,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>652</Count>
+          <Count>656</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Console...">
@@ -1086,7 +1086,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>587</Count>
+          <Count>590</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -1182,7 +1182,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Restore Windows</Description>
-          <Count>37</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
@@ -2158,7 +2158,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'retrieve_cdc_synch...()'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'retrieve_default_m...()'">
@@ -2870,7 +2870,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1487</Count>
+          <Count>1489</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
