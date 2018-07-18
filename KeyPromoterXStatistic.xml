@@ -230,7 +230,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'Bluework Entitymodeler'</Description>
-          <Count>71</Count>
+          <Count>72</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Bluework3'">
@@ -998,7 +998,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>666</Count>
+          <Count>667</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Console...">
@@ -1086,7 +1086,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>597</Count>
+          <Count>598</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -2878,7 +2878,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1499</Count>
+          <Count>1501</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
