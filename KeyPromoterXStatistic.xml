@@ -78,7 +78,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>707</Count>
+          <Count>710</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare">
@@ -166,7 +166,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>418</Count>
+          <Count>419</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ApPasswordEncoderTest'">
@@ -590,7 +590,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'ecp3-batch'</Description>
-          <Count>41</Count>
+          <Count>42</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ecp3-bo'">
@@ -2598,7 +2598,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>810</Count>
+          <Count>814</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
@@ -2878,7 +2878,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1509</Count>
+          <Count>1511</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
