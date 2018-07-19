@@ -606,7 +606,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'ecp3-rest-api'</Description>
-          <Count>339</Count>
+          <Count>341</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'encode()'">
@@ -1086,7 +1086,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>622</Count>
+          <Count>623</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -2878,7 +2878,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1515</Count>
+          <Count>1519</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
