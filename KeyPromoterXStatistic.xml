@@ -598,7 +598,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'ecp3-bo'</Description>
-          <Count>905</Count>
+          <Count>908</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ecp3-rest-api'">
@@ -958,7 +958,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>720</Count>
+          <Count>722</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -998,7 +998,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>714</Count>
+          <Count>718</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Console...">
@@ -1086,7 +1086,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>638</Count>
+          <Count>641</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -2598,7 +2598,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>833</Count>
+          <Count>834</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
@@ -2878,7 +2878,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1538</Count>
+          <Count>1541</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
