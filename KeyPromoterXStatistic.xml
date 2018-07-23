@@ -78,7 +78,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>723</Count>
+          <Count>724</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare">
@@ -166,7 +166,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>423</Count>
+          <Count>425</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ApPasswordEncoderTest'">
@@ -598,7 +598,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'ecp3-bo'</Description>
-          <Count>909</Count>
+          <Count>912</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ecp3-rest-api'">
@@ -958,7 +958,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>729</Count>
+          <Count>731</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find a matching string in the current analysis results.">
@@ -1006,7 +1006,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>720</Count>
+          <Count>722</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Console...">
@@ -1614,7 +1614,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'MemberServiceImplTest'</Description>
-          <Count>20</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'MemberServiceImplTest.exists_member_id_t...'">
@@ -2606,7 +2606,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>837</Count>
+          <Count>839</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
@@ -2705,6 +2705,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'MemberServiceImplTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'MemberServiceImplTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'ScrollableTest.scrollable'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -2726,7 +2734,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'ecp3-bo'</Description>
-          <Count>59</Count>
+          <Count>60</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ecp3-rest-api'">
@@ -2854,7 +2862,7 @@
           <IdeaActionID>javaee.UpdateRunningApplication</IdeaActionID>
           <ShortCut>'⌘F10'</ShortCut>
           <Description>Update 'ecp3-bo' application</Description>
-          <Count>431</Count>
+          <Count>433</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update 'ecp3-rest-api' application">
@@ -2886,7 +2894,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1547</Count>
+          <Count>1550</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
