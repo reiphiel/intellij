@@ -78,7 +78,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>721</Count>
+          <Count>722</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare">
@@ -958,7 +958,15 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>724</Count>
+          <Count>726</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Find a matching string in the current analysis results.">
+        <Item>
+          <IdeaActionID>FindBugs.ShowQuickSearch</IdeaActionID>
+          <ShortCut>'⌘F'</ShortCut>
+          <Description>Find a matching string in the current analysis results.</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -1078,7 +1086,7 @@
           <IdeaActionID>FindBugs.PreviewSelectBugInstance</IdeaActionID>
           <ShortCut>'⌥Q' or '⌥Button1 Click'</ShortCut>
           <Description>Preview the current selected bug.</Description>
-          <Count>14</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -1086,7 +1094,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>641</Count>
+          <Count>642</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -2878,7 +2886,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1544</Count>
+          <Count>1546</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
