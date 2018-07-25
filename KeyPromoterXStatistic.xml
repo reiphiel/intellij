@@ -1006,7 +1006,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>2604</Count>
+          <Count>2605</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -1102,7 +1102,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>658</Count>
+          <Count>659</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -1478,7 +1478,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'MemberBenefitActivityPointServiceTest'</Description>
-          <Count>12</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'MemberBenefitActivityPointServiceTest.receive_activity_point_gift'">
@@ -1542,7 +1542,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'MemberBenefitServiceImplTest'</Description>
-          <Count>12</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'MemberBenefitServiceImplTest.expire_poin...'">
@@ -2654,7 +2654,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>843</Count>
+          <Count>844</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
@@ -2870,7 +2870,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>821</Count>
+          <Count>822</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
@@ -2942,7 +2942,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1568</Count>
+          <Count>1569</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
