@@ -934,7 +934,7 @@
           <IdeaActionID>Console.Jdbc.Execute</IdeaActionID>
           <ShortCut>'⌘⏎'</ShortCut>
           <Description>Execute</Description>
-          <Count>262</Count>
+          <Count>264</Count>
         </Item>
       </Statistic>
       <Statistic Action="Expand">
@@ -966,7 +966,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>765</Count>
+          <Count>773</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find a matching string in the current analysis results.">
@@ -1006,7 +1006,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>2660</Count>
+          <Count>2670</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -1014,7 +1014,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>790</Count>
+          <Count>791</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Console...">
@@ -1054,7 +1054,7 @@
           <IdeaActionID>Jdbc.OpenEditor</IdeaActionID>
           <ShortCut>'F4'</ShortCut>
           <Description>Open Console</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Open Module Settings">
@@ -2654,7 +2654,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>855</Count>
+          <Count>856</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
@@ -2942,7 +2942,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1599</Count>
+          <Count>1600</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
