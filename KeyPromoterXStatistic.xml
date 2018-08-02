@@ -166,7 +166,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>436</Count>
+          <Count>437</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ApPasswordEncoderTest'">
@@ -351,6 +351,14 @@
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'MemberBenefitActivityPointServiceTest.r…_restoration_activity_point_gift_targets'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'MemberBenefitActivityPointServiceTest.r…ve_member_activity_point_history_summary'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'MemberBenefitActivityPointServiceTest.r…ve_member_activity_point_history_summary'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'MemberBenefitActivityPointServiceTest.s…y_point_gft_scheduled_cancel_via_message'">
@@ -958,7 +966,7 @@
           <IdeaActionID>ActivateFindToolWindow</IdeaActionID>
           <ShortCut>'⌘3'</ShortCut>
           <Description>Find</Description>
-          <Count>14</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Usages">
@@ -1535,6 +1543,14 @@
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'MemberBenefitActivityPointServiceTest.r…ty_point_gift_monthly_count_limit_exceed'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'MemberBenefitActivityPointServiceTest.r…ve_member_activity_point_history_summary'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'MemberBenefitActivityPointServiceTest.r…ve_member_activity_point_history_summary'</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'MemberBenefitActivityPointServiceTest.s…y_point_gft_scheduled_cancel_via_message'">
@@ -2769,6 +2785,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'MemberBenefitActivityPointServiceTest.retrieve_member_activity_point_history_summary'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'MemberBenefitActivityPointServiceTest.retrieve_member_activity_point_history_summary'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'MemberBenefitActivityPointServiceTest.retrieve_scheduled_cancel_activity_point_gift_list'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -2902,7 +2926,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>849</Count>
+          <Count>851</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
@@ -2974,7 +2998,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1616</Count>
+          <Count>1617</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
