@@ -78,7 +78,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>756</Count>
+          <Count>757</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare">
@@ -606,7 +606,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'ecp3-bo'</Description>
-          <Count>920</Count>
+          <Count>921</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ecp3-rest-api'">
@@ -1014,7 +1014,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>2707</Count>
+          <Count>2708</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -1022,7 +1022,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>819</Count>
+          <Count>821</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Console...">
@@ -1110,7 +1110,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>717</Count>
+          <Count>718</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -2702,7 +2702,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>874</Count>
+          <Count>875</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
@@ -2998,7 +2998,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1619</Count>
+          <Count>1622</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
