@@ -78,7 +78,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>764</Count>
+          <Count>765</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare">
@@ -2822,7 +2822,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>883</Count>
+          <Count>884</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
@@ -3118,7 +3118,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1642</Count>
+          <Count>1643</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
