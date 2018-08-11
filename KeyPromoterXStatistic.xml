@@ -22,7 +22,7 @@
           <IdeaActionID>ChangesView.AddUnversioned</IdeaActionID>
           <ShortCut>'⌥⌘A'</ShortCut>
           <Description>Add to VCS</Description>
-          <Count>148</Count>
+          <Count>155</Count>
         </Item>
       </Statistic>
       <Statistic Action="Analyze Current File">
@@ -78,7 +78,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>737</Count>
+          <Count>765</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare">
@@ -134,7 +134,7 @@
           <IdeaActionID>XDebugger.CopyValue</IdeaActionID>
           <ShortCut>'⌘C'</ShortCut>
           <Description>Copy Value</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Cut">
@@ -166,7 +166,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>428</Count>
+          <Count>453</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ApPasswordEncoderTest'">
@@ -353,6 +353,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'MemberBenefitActivityPointServiceTest.r…ve_member_activity_point_history_summary'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'MemberBenefitActivityPointServiceTest.r…ve_member_activity_point_history_summary'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'MemberBenefitActivityPointServiceTest.s…y_point_gft_scheduled_cancel_via_message'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -513,6 +521,30 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'SettleBankTransferDelegatorTest.verify'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'SettleBankTransferDelegatorTest.verify'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'SettleBankTransferDelegatorTest.verify1'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'SettleBankTransferDelegatorTest.verify1'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'SettleBankTransferDelegatorTest.verify3'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'SettleBankTransferDelegatorTest.verify3'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'SourceCodeParseUtilsTest.retrieve_parame...'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -598,7 +630,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'ecp3-bo'</Description>
-          <Count>914</Count>
+          <Count>926</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ecp3-rest-api'">
@@ -606,7 +638,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'ecp3-rest-api'</Description>
-          <Count>359</Count>
+          <Count>378</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'encode()'">
@@ -849,6 +881,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'transfer()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug 'transfer()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'use_point()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -863,6 +903,46 @@
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Debug 'use_point_single_h...()'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'verify()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug 'verify()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'verify1()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug 'verify1()'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'verify2()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug 'verify2()'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'verify3()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug 'verify3()'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'verify4()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug 'verify4()'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -934,7 +1014,7 @@
           <IdeaActionID>Console.Jdbc.Execute</IdeaActionID>
           <ShortCut>'⌘⏎'</ShortCut>
           <Description>Execute</Description>
-          <Count>260</Count>
+          <Count>264</Count>
         </Item>
       </Statistic>
       <Statistic Action="Expand">
@@ -942,7 +1022,7 @@
           <IdeaActionID>ExpandRegion</IdeaActionID>
           <ShortCut>'⌘+' or '⌘='</ShortCut>
           <Description>Expand</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Favorites">
@@ -958,7 +1038,7 @@
           <IdeaActionID>ActivateFindToolWindow</IdeaActionID>
           <ShortCut>'⌘3'</ShortCut>
           <Description>Find</Description>
-          <Count>14</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Usages">
@@ -966,7 +1046,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>753</Count>
+          <Count>807</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find a matching string in the current analysis results.">
@@ -990,7 +1070,7 @@
           <IdeaActionID>ForceStepInto</IdeaActionID>
           <ShortCut>'⌥⇧F7'</ShortCut>
           <Description>Force Step Into</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Generate...">
@@ -1006,7 +1086,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>2636</Count>
+          <Count>2788</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -1014,7 +1094,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>777</Count>
+          <Count>872</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Console...">
@@ -1030,7 +1110,7 @@
           <IdeaActionID>EditSource</IdeaActionID>
           <ShortCut>'F4'</ShortCut>
           <Description>Jump to Source</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -1054,7 +1134,7 @@
           <IdeaActionID>Jdbc.OpenEditor</IdeaActionID>
           <ShortCut>'F4'</ShortCut>
           <Description>Open Console</Description>
-          <Count>3</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Open Module Settings">
@@ -1070,7 +1150,7 @@
           <IdeaActionID>$Paste</IdeaActionID>
           <ShortCut>'⌘V'</ShortCut>
           <Description>Paste</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste Simple">
@@ -1078,7 +1158,7 @@
           <IdeaActionID>EditorPasteSimple</IdeaActionID>
           <ShortCut>'⌥⇧⌘V'</ShortCut>
           <Description>Paste Simple</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste from History...">
@@ -1094,7 +1174,7 @@
           <IdeaActionID>FindBugs.PreviewSelectBugInstance</IdeaActionID>
           <ShortCut>'⌥Q' or '⌥Button1 Click'</ShortCut>
           <Description>Preview the current selected bug.</Description>
-          <Count>19</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -1102,7 +1182,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>690</Count>
+          <Count>744</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -1166,7 +1246,7 @@
           <IdeaActionID>XDebugger.RemoveWatch</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Remove Watch</Description>
-          <Count>13</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
@@ -1174,7 +1254,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'⇧F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>88</Count>
+          <Count>90</Count>
         </Item>
       </Statistic>
       <Statistic Action="Replace in Path...">
@@ -1198,7 +1278,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Restore Windows</Description>
-          <Count>42</Count>
+          <Count>50</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
@@ -1206,7 +1286,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1546</Count>
+          <Count>1632</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1214,7 +1294,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>250</Count>
+          <Count>252</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -1222,7 +1302,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>13</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'APTest.aaa'">
@@ -1262,7 +1342,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'ApMemberServiceImplTest'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ApMemberServiceImplTest.find_member_signup_status_by_ci'">
@@ -1271,6 +1351,14 @@
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'ApMemberServiceImplTest.find_member_signup_status_by_ci'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ApMemberServiceImplTest.find_old_member_sn_by_ci'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'ApMemberServiceImplTest.find_old_member_sn_by_ci'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ApPasswordEncoderTest'">
@@ -1527,6 +1615,14 @@
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'MemberBenefitActivityPointServiceTest.r…ty_point_gift_monthly_count_limit_exceed'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'MemberBenefitActivityPointServiceTest.r…ve_member_activity_point_history_summary'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'MemberBenefitActivityPointServiceTest.r…ve_member_activity_point_history_summary'</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'MemberBenefitActivityPointServiceTest.s…y_point_gft_scheduled_cancel_via_message'">
@@ -1801,6 +1897,22 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'SettleBankTransferDelegatorTest.verify'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'SettleBankTransferDelegatorTest.verify'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'SettleBankTransferDelegatorTest.verify3'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'SettleBankTransferDelegatorTest.verify3'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'SourceCodeParseUtilsTest.retrieve_parame...'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -2025,6 +2137,22 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'find_old_member_by...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'find_old_member_by...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'find_old_member_sn...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'find_old_member_sn...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'generate()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -2246,7 +2374,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'retrieve_extended_...()'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'retrieve_latest_bl...()'">
@@ -2254,6 +2382,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'retrieve_latest_bl...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'retrieve_member_ac...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'retrieve_member_ac...()'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -2625,6 +2761,38 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'verify()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'verify()'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'verify1()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'verify1()'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'verify2()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'verify2()'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'verify3()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'verify3()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'verify_mobile_veri...()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -2646,7 +2814,7 @@
           <IdeaActionID>XDebugger.SetValue</IdeaActionID>
           <ShortCut>'F2'</ShortCut>
           <Description>Set Value...</Description>
-          <Count>2</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff">
@@ -2654,7 +2822,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>851</Count>
+          <Count>884</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
@@ -2678,7 +2846,7 @@
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F7'</ShortCut>
           <Description>Step Into</Description>
-          <Count>229</Count>
+          <Count>254</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Out">
@@ -2686,7 +2854,7 @@
           <IdeaActionID>StepOut</IdeaActionID>
           <ShortCut>'⇧F8'</ShortCut>
           <Description>Step Out</Description>
-          <Count>236</Count>
+          <Count>292</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Over">
@@ -2737,6 +2905,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'MemberBenefitActivityPointServiceTest.retrieve_member_activity_point_history_summary'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'MemberBenefitActivityPointServiceTest.retrieve_member_activity_point_history_summary'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'MemberBenefitActivityPointServiceTest.retrieve_scheduled_cancel_activity_point_gift_list'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -2782,7 +2958,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'ecp3-bo'</Description>
-          <Count>60</Count>
+          <Count>61</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ecp3-rest-api'">
@@ -2790,7 +2966,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'ecp3-rest-api'</Description>
-          <Count>28</Count>
+          <Count>29</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'net.g1project.ecp in ecp-sales_test'">
@@ -2862,7 +3038,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>253</Count>
+          <Count>256</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -2870,7 +3046,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>833</Count>
+          <Count>882</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
@@ -2878,7 +3054,7 @@
           <IdeaActionID>ShelveChanges.UnshelveWithDialog</IdeaActionID>
           <ShortCut>'⇧⌘U'</ShortCut>
           <Description>Unshelve...</Description>
-          <Count>67</Count>
+          <Count>70</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update 'Bluework Entitymodeler' application">
@@ -2918,7 +3094,7 @@
           <IdeaActionID>javaee.UpdateRunningApplication</IdeaActionID>
           <ShortCut>'⌘F10'</ShortCut>
           <Description>Update 'ecp3-rest-api' application</Description>
-          <Count>61</Count>
+          <Count>72</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project">
@@ -2942,7 +3118,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1588</Count>
+          <Count>1643</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
